@@ -1,4 +1,4 @@
-# IT infrastructure and Devops trainee assignment documentation
+# Practice lab
 
 This repository contains my practical implementation of Linux system administration, containerization, automation, monitoring, database backup and disaster recovery tasks. The work was completed in an Ubuntu environment using tools and technologies such as SSH, UFW, Docker, Docker Compose, Nginx, Flask, PostgreSQL, Bash, Cron, Prometheus and Node Exporter.
 
